@@ -1,5 +1,5 @@
 # Placement of Pressure Sensors
-Data files and MATLAB code for optimal placement of pressure sensors in water networks. Please read the guide *SimulatingLeaks.pdf* first.
+Data files and MATLAB code for optimal placement of pressure sensors in water networks. Please read the guide **SimulatingLeaks.pdf** first.
 
 ## Installation
 Download the files and place them in a path accessible to MATLAB. Try the following code:
