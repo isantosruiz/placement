@@ -9,5 +9,4 @@ Download the files and place them in a path accessible to MATLAB. Try the follow
  >> P = simulateLeaks(Hanoi,1:31,10:10:80);
  >> % Compute the best 5 locations to place pressure sensors
  >> sensors = placement(P,5)
- >> drawWithSensors(Hanoi,sensors)
  ```
